@@ -1,0 +1,33 @@
+#include<stdio.h>
+int main()
+{
+    int t,n,k,a(y)[10000],y,c=0;
+    size_t i;
+    scanf("%d",&t);
+
+
+    for(y=1;y<=t;y++){
+      scanf("%d%d",&n,&k);
+    for(i=0;i<n;i++){
+     scanf("%d",&ay[i]);
+
+
+}}
+for(y=1;y<=t;y++){
+
+    for(i=0;i<n;i++){
+
+     if(ay[i]<=0){
+        c++;}}
+
+if(c>=k){
+            printf("NO\n");}
+else{
+    printf("YES\n");
+     }
+    }
+
+
+
+    return 0;
+}

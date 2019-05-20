@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+    int v1,v2,x1,x2,y3,y4;
+float y,y1;
+    scanf("%d",&x1);  scanf("%d",&v1);
+    scanf("%d",&x2); scanf("%d",&v2);
